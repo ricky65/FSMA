@@ -1,11 +1,11 @@
 /* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  * The following code declares class array_2d, an STL-like container which is a wrapper for built-in 2 dimensional arrays.
  *
- * Project homepage: http://code.google.com/p/fsma/
+ * Project homepage: https://github.com/ricky65/FSMA/
  *
- * Documentation can be located here: http://www.mydocumentation.com/dd/ddy/
+ * Documentation can be located here: https://github.com/ricky65/FSMA/blob/master/README.md
  *
- * (C) Copyright Riccardo Marcangelo 2011.
+ * (C) Copyright Riccardo Marcangelo 2011 - 2017.
  *
  * Distributed under the Boost Software License, Version 1.0.
  * (See accompanying file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
