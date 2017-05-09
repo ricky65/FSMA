@@ -12,7 +12,7 @@ double arr[3][4];
 However, built-in C multidimensional arrays have several problems:
 
 1. They don't know their own size,
-2. They provide no range checking. 3
+2. They provide no range checking. 
 3. They can't be passed cleanly. An array decays to a pointer to its first element at the "slightest provocation" as Mr. Stroustrup says.
 4. They have no array operations such as assignment.
 5. They don't interoperate well with the C++ Standard Library
