@@ -204,10 +204,4 @@ The begin() and end() member functions return iterators that represent the bound
 
 Further functionality could be implemented in future if desired. This could include member functions such as swap_rows() as well as support for slicing.
 
-## Contact details
-
-If you can spot any errors, suggest improvements to the implementation or want to request any new features please feel free to contact me at the email below:
-
-ricky.65@hotmail.com
-
-Copyright: Riccardo Marcangelo 2011 - 2017.
+Copyright: Riccardo Marcangelo 2011 - 2019.
